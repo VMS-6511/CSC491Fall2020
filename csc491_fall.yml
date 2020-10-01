@@ -1,0 +1,13 @@
+name: CSC491
+dependencies:
+  - python>=3.6
+  - anaconda
+  - pip
+  - pip:
+      - numpy
+      - matplotlib
+      - seaborn
+      - tensorflow
+      - keras
+      - sklearn
+
